@@ -301,7 +301,7 @@ header .intro-text {
 	padding: 0;
 }
 #gallery .gallery-item {
-	margin: 0 -15px;
+	margin: 0 
 }
 /* Team Section */
 #team {
@@ -439,6 +439,11 @@ color: #999;
 }
 #footer a:hover {
 	color: #eee;
+}
+.gallery-item img {
+	max-width: 120%;
+	width: 120%;
+	max-height: 160px;
 }
 
 
