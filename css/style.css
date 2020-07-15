@@ -255,8 +255,15 @@ header .intro-text {
 	padding: 100px 0 60px 0;
 }
 #restaurant-menu img {
+	box-sizing: 10px;
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
 	width: 300px;
-	box-shadow: 15px 0 #a7c44c;
+	border-color: blue;
+	width: 50%;
+	height: max-content;
+	
 }
 #restaurant-menu h3 {
 	padding: 10px 0;
