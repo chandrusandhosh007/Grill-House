@@ -260,9 +260,8 @@ header .intro-text {
     border-radius: 10px;
     padding: 10px;
 	border-color: blue;
-	width: 50%;
-	height: max-content;
-	
+	width: 283px; 
+	height:283px ;
 }
 #restaurant-menu h3 {
 	padding: 10px 0;
@@ -450,10 +449,4 @@ color: #999;
 	max-width: 100%;
 	width: 100%;
 	max-height: 160px;
-}
-.menu-item img {
-	 max-width: 183px;
-	 max-height: 212px;
-	 width:50 ;
-	 height: 50;
 }
